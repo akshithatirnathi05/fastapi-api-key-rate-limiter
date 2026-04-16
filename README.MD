@@ -29,7 +29,7 @@ This project is a backend service built using FastAPI that provides API key-base
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/akshithatirnathi05/fastapi-api-key-rate-limiter.git
 cd fastapi-api-key-rate-limiter
 ```
 
