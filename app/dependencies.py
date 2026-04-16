@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from app.database import SessionLocal
 from app import models
 
-RATE_LIMIT = 2  # max requests
+RATE_LIMIT = 5  # max requests
 TIME_WINDOW = 60  # seconds
 
 def get_db():
